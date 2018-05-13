@@ -1,3 +1,4 @@
 # Calculator-Pygame
-File to run: main.py
-I will create an executable shortly
+To test it out, click on: 
+- pygame_calculator.zip
+- 'Download'
