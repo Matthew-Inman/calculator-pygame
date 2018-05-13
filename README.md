@@ -1,4 +1,6 @@
 # Calculator-Pygame
+Executable is only for MacOs at the moment.  
+
 To test it out, click on: 
-- pygame_calculator.zip
-- 'Download'
+- pygame_calculator.zip  
+- Download
